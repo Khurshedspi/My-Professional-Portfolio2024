@@ -45,7 +45,7 @@ let tailWindProgress = document.querySelector(".php"),
   tailwindValue = document.querySelector(".php-progress");
 
 let tailwindStartValue = 0,
-  tailWindEndValue = 96,
+  tailWindEndValue = 65,
   tailwindspeed = 30;
 
 let progresstailwind = setInterval(() => {
